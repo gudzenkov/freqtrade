@@ -1,0 +1,18 @@
+{
+    "exchange": {
+        "name": "binance",
+        "key": "af8ddd35195e9dc500b9a6f799f6f5c93d89193b",
+        "secret": "08a9dc6db3d7b53e1acebd9275677f4b0a04f1a5"
+        },
+    "telegram": {
+        "enabled": true,
+        "token": "22222222:APITOKEN",
+        "chat_id": "-1001332619709"
+    },
+    "api_server": {
+        "jwt_secret_key": "somethingrandom",
+        "CORS_origins": [],
+        "username": "Freqtrader",
+        "password": "SuperSecret1!"
+    }
+}
