@@ -95,3 +95,6 @@ target/
 
 #exceptions
 !*.gitkeep
+
+# MacOS folder cache
+.DS_Store
