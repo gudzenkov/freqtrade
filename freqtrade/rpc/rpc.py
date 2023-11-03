@@ -14,7 +14,7 @@ from numpy import NAN, inf, int64, mean
 from pandas import DataFrame, NaT
 from sqlalchemy import func, select
 
-from freqtrade import __version__
+from freqtrade.__init__ import __version__
 from freqtrade.configuration.timerange import TimeRange
 from freqtrade.constants import CANCEL_REASON, Config
 from freqtrade.data.history import load_data
